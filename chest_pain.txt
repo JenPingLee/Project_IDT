@@ -3,7 +3,7 @@ DD: ACS, Pericarditis, Myocarditis, Aotic dissection, PTX, PE, Pleuritis, Pneumo
 ACS: sudden onset, substernal pain, substernal pressure, radiation to neck, radiation to jaw, radiation to back, sharp pain, pleuritic, diaphoresis, dyspnea, exacerbated by exertion, prior MI, relief by rest, relief by NTG, chest tightness
 Pericarditis: substernal pain, radiation to trapezius, radiation to back, respiration-related, relief by sitting forward
 Myocarditis: substernal pain, radiation to trapezius, radiation to back, respiration-related, relief by sitting forward
-Aortic dissection: sudden onset, severe pain, tearing pain, facial palsy, slurred speech, blurred vision
+Aortic dissection: sudden onset, severe pain, tearing pain, facial palsy, slurred speech, blurred vision, back pain
 Pneumonia: pleuritic pain, dyspnea, fever, cough, sputum
 Pleuritis: sharp pain, pleuritic pain
 PTX: sudden onset, sharp pain, pleuritic pain
