@@ -1,0 +1,23 @@
+Chief Complaint: Chest Pain
+DD: ACS, Pericarditis, Myocarditis, Aotic dissection, PTX, PE, Pleuritis, Pneumonia, PHT, GERD, Esophageal spasm, Boerhaave, Mallory-Weiss tear, Trauma, Herpes, pancreatitis
+ACS: sudden onset, substernal pain, substernal pressure, radiation to neck, radiation to jaw, radiation to back, sharp pain, pleuritic, diaphoresis, dyspnea, exacerbated by exertion, prior MI, relief by rest, relief by NTG, chest tightness
+Pericarditis: substernal pain, radiation to trapezius, radiation to back, respiration-related, relief by sitting forward
+Myocarditis: substernal pain, radiation to trapezius, radiation to back, respiration-related, relief by sitting forward
+Aortic dissection: sudden onset, severe pain, tearing pain, facial palsy, slurred speech, blurred vision
+Pneumonia: pleuritic pain, dyspnea, fever, cough, sputum
+Pleuritis: sharp pain, pleuritic pain
+PTX: sudden onset, sharp pain, pleuritic pain
+PE: sudden onset, pleuritic pain
+PHT: exertional pressure, DOE, exacerbated by exertion
+GERD: substernal pain, substernal burn, burning pain, acid taste, exacerbated by meal, exacerbated by lying down, relief by antacid
+Esophageal spasm: substernal pain, severe pain, exacerbated by swollowing, relief by NTG, relief by CCB
+Mallory-Weiss tear: vomiting, alcohol hx, hematemesis
+Boerhaave: severe pain, exacerbated by swallowing
+PUD: epigastric pain, relief by antacid, tarry stool, hematemesis, H. pylori hx
+Acute cholecystitis: RUQ pain, nausea, vomiting, exacerbated by fatty food
+Pancreatitis: epigastric pain, epigastric discomfort, back pain, radiation to back, back discomfort
+Trauma: localized pain, sharp pain, exacerbated by movement, exacerbated by palpation, trauma hx
+Zoster: severe pain, unilateral pain, dermatome distribution, rash
+Anxiety: chest tightness, dyspnea, palpation
+
+
