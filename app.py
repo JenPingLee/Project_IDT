@@ -49,10 +49,10 @@ print(mdic_1)
 
 # opt_ls = ["dyspnea", "sharp pain", "substernal pressure"]# replace to streamlit
 import streamlit as st
-st.title("Idioctor")
+st.title("DDDD (Data-Drive Differential Diagnosis)")
 st.subheader(lines[0])
 
-opt_ls = st.multiselect(label="Choose your fucking present illnes:", 
+opt_ls = st.multiselect(label="Choose your present illness:", 
 options = mdic_1.symptom.unique(),
 default=[]
 )
